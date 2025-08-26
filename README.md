@@ -1,6 +1,6 @@
 # Hi, I'm Arth Raval 👋
 
-🎓 **Computer Engineering Technology Student @ Seneca Polytechnic**  
+🎓 **Computer Engineering Technology Graduate from Seneca Polytechnic**  
 💡 Passionate about **Embedded Systems, Networking, Cloud, and Cybersecurity**  
 📍 Based in Toronto, ON | 🌐 Open to global opportunities  
 
