@@ -25,7 +25,7 @@
 - 🎓 **Diploma – Computer Engineering (GTU, India)** — CGPA **9.7/10**  
 - 🔧 Hands-on with **Linux/Windows servers, AD/GPO, DNS/DHCP, IIS/Apache, firewalls, scripting**  
 - ☁️ **Cloud & Virtualization:** AWS EC2, Azure VMs, VMware, Podman/Kubernetes  
-- 🔒 **Security:** SSH keys, SIEM (Security Onion/ELK), Nessus/Metasploit labs, basic SOC analysis  
+- 🔒 **Security:** SSH keys, SIEM (Security Onion/ELK), Nessus/Metasploit labs, SOC analysis  
 - 🤖 **Embedded/IoT:** ARM Cortex-M4 (FreeRTOS, PWM, ISR), ESP32 (ESP-NOW, MJPEG streaming)  
 - 🧪 I like turning labs into real projects and documenting them clearly.
 
@@ -88,8 +88,6 @@ Fedora servers + Windows/Linux clients: **DNS (A/MX + reverse zones), DHCP, Samb
 Regex-based parsing → CSV → **Pandas/Numpy** analysis → plots with Matplotlib.  
 `Regex • Data Cleaning • EDA`
 
-> Repos: organizing and publishing coursework projects now. Ping me on LinkedIn if you want any demo videos.
-
 ---
 
 ### 🎖 Certifications & badges
@@ -100,10 +98,9 @@ Regex-based parsing → CSV → **Pandas/Numpy** analysis → plots with Matplot
 
 ---
 
-### 📚 Coursework highlights (click to expand)
+### 📚 Coursework highlights (expandable)
 <details>
 <summary><b>Networking (NET455/556)</b> — VLANs, Inter-VLAN routing, STP, EtherChannel, DHCPv4/v6, WLC basics</summary>
-
 • Cisco IOS configuration (SVIs, trunks, port security)  
 • VLSM addressing, IPv6 (SLAAC/stateful/stateless DHCPv6)  
 • DHCP scopes/exclusions, DNS zones/records, IIS hosting + firewall rules  
@@ -111,44 +108,35 @@ Regex-based parsing → CSV → **Pandas/Numpy** analysis → plots with Matplot
 
 <details>
 <summary><b>Linux & Servers (NSP655)</b> — DHCP, DNS (BIND), NFS, Samba, Apache(SSL), Sendmail/Dovecot, firewalld, SSH/VNC</summary>
-
 • VMware lab environment, static/NAT networking, autofs, backup with tar/rsync/cron  
 • JetDirect printing, Podman containers, AWS EC2 fundamentals  
 </details>
 
 <details>
 <summary><b>Cybersecurity (SEC555)</b> — Offensive/Defensive labs with SIEM</summary>
-
 • Tools: **Nmap, Metasploit, Nessus, Security Onion (Zeek/Suricata/ELK), Sysmon**  
 • Topics: vuln scanning, CVSS/CVEs, C2 beacons, persistence, IR lifecycle  
 </details>
 
 <details>
 <summary><b>Embedded (MCO556)</b> — ARM Cortex-M4 + FreeRTOS</summary>
-
 • **PIT, FTM PWM, ISRs**, tasks/priorities, semaphores/queues/event groups, MCUXpresso debugging  
 </details>
 
 <details>
 <summary><b>Data & Python (PRG550/BDA)</b> — Pandas/NumPy, Matplotlib, Spark/Hadoop</summary>
-
 • Regex parsing, CSV automation, basic ML concepts, lakehouse & NoSQL overview  
 </details>
 
 ---
 
-### 📊 Live GitHub overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthraval&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arthraval&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthraval&layout=compact&theme=tokyonight" height="170" />
-</p>
-
+### 🏆 Trophies & streak
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arthraval&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthraval&theme=tokyonight" height="165" />
 </p>
 
 ---
