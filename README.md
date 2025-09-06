@@ -131,7 +131,7 @@ Regex-based parsing → CSV → **Pandas/Numpy** analysis → plots with Matplot
 ---
 
 ### 🏆 Trophies & streak
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arth-7&label=Profile%20views&color=0e75b6&style=flat" alt="arth-7" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arth-7" alt="arth-7" /></a> </p>
 
