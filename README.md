@@ -131,13 +131,17 @@ Regex-based parsing → CSV → **Pandas/Numpy** analysis → plots with Matplot
 ---
 
 ### 🏆 Trophies & streak
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arthraval&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arth-7&label=Profile%20views&color=0e75b6&style=flat" alt="arth-7" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arth-7" alt="arth-7" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthraval&theme=tokyonight" height="165" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arth-7&show_icons=true&locale=en&layout=compact" alt="arth-7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arth-7&" alt="arth-7" /></p>
 
 ---
 
