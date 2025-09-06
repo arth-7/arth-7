@@ -135,7 +135,6 @@ Regex-based parsing → CSV → **Pandas/Numpy** analysis → plots with Matplot
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arth-7" alt="arth-7" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
